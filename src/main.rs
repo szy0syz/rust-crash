@@ -7,10 +7,11 @@
 // mod vectors;
 // mod conditionals;
 // mod loops;
-mod functions;
+// mod functions;
+mod pointe_ref;
 
 
 fn main() {
     // print::run();
-    functions::run();
+    pointe_ref::run();
 }
