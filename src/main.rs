@@ -3,9 +3,10 @@
 // mod types;
 // mod strings;
 // mod tuples;
-mod array;
+// mod arrays;
+mod vectors;
 
 fn main() {
     // print::run();
-    array::run();
+    vectors::run();
 }
